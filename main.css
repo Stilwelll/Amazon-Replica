@@ -1,0 +1,57 @@
+body, html{
+    height: 100%;
+    margin: 6px;
+}
+
+div{
+    display: inline;
+    margin: 20px;
+}
+
+#main{
+    margin: 0px;
+    border-style: solid; 
+    height: 22%;
+    width: 10%;
+    position: fixed;
+    top: 40%;
+    right: 40%;
+}
+
+body{
+    text-align: center;
+    border: 5px;
+    border-color: gray;
+    
+}
+
+#sign{
+    position:relative;
+    top: 20px;
+    right: 42px;
+}
+
+#help{
+    position: relative;
+    right: 20px;
+}
+
+#continue{
+    text-decoration:solid;
+    text-decoration-color: white;
+    border: 1px;
+    border-style: solid;
+    width: 25px;
+    color: orange;
+}
+
+#a{
+    width: 50%;
+}
+
+footer{
+    width: 100px;
+    display: inline;
+    padding: 10px;
+    text-align: center;
+}
